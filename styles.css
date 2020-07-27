@@ -3,3 +3,19 @@
 	margin: auto;
 
 }
+
+img{
+	display: block;
+	max-width:90%;
+	margin: auto;
+	border: thin silver solid;
+	
+}
+
+figure {
+	max-width:90%;
+	text-align: center;
+	text-indent: 0;
+	margin: auto;
+	padding: 0.5em;
+}
