@@ -12,6 +12,12 @@ img{
 	
 }
 
+.center{
+	display:block;
+	margin:auto;
+	max-width:95%;
+}
+
 figure {
 	max-width:90%;
 	text-align: center;
