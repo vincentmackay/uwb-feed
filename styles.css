@@ -14,10 +14,14 @@ img{
 
 figure {
 	max-width:90%;
-	text-align: left;
+	text-align: center;
 	text-indent: 0;
 	margin: auto;
 	padding: 0.5em;
+}
+
+figure.left_aligned_caption{
+	text-align: left;
 }
 
 table{
