@@ -24,6 +24,11 @@ figure {
 	text-indent: 0;
 	margin: auto;
 	padding: 0.5em;
+	padding-bottom: 3em;
+}
+
+figcaption{
+	padding-top: 0.5em;
 }
 
 figure.left_aligned_caption{
